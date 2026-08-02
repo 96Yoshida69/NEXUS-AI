@@ -1,0 +1,53 @@
+/* ================= MOBILE ================= */
+
+@media (max-width: 900px) {
+  .dashboard-stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .metrics {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ================= SMALL MOBILE ================= */
+
+@media (max-width: 600px) {
+  .nexus-header {
+    padding: 15px;
+  }
+
+  .logo {
+    font-size: 18px;
+  }
+
+  .system-status {
+    font-size: 10px;
+  }
+
+  .dashboard {
+    gap: 20px;
+  }
+
+  .dashboard-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .metrics {
+    grid-template-columns: 1fr;
+  }
+
+  .assistant-actions {
+    flex-direction: column;
+  }
+
+  .assistant-actions button {
+    width: 100%;
+  }
+
+  .metric-circle {
+    width: 100px;
+
+    height: 100px;
+  }
+}

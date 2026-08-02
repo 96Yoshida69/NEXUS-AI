@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+
+  background: #020617;
+  color: #e0f2fe;
+
+  font-family: "Inter", Arial, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+}
