@@ -63,6 +63,12 @@ The goal is to create a feeling of interacting with a personal AI operating syst
 
 ---
 
+## 📂 Repository
+
+https://github.com/96Yoshida69/NEXUS-AI
+
+---
+
 ## 📸 Preview
 
 ![NEXUS AI Preview](./preview1.png)
@@ -70,6 +76,12 @@ The goal is to create a feeling of interacting with a personal AI operating syst
 ![NEXUS AI Preview](./preview2.png)
 
 ![NEXUS AI Preview](./preview3.png)
+
+---
+
+## 🌐 Live Demo
+
+https://nexus-ai-mauve.vercel.app/
 
 ---
 
